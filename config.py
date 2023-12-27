@@ -6,6 +6,6 @@ basedir = os.path.abspath(os.path.dirname(__file__))
 
 DEBUG = True
 
-SQLALCHEMY_DATABASE_URI = 'mysql+pymysql://apisia_batmarried:5ef07a2f5aa793451403907e6670280a6167877e@0nn.h.filess.io:3307/apisia_batmarried'
+SQLALCHEMY_DATABASE_URI = 'mysql+mysql://pwlresponsi_belongbite:a33f82fe60054555fd463fcc0a724f4138cb2f33@zp6.h.filess.io:3307/pwlresponsi_belongbite'
 
 SQLALCHEMY_TRACK_MODIFICATIONS = False
